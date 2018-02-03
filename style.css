@@ -1,0 +1,17 @@
+/*index.html*/
+*{background-color: #00009A}
+h1{ margin: auto; width: 1050px; height: 280px; color: white; background-image: url("files/headerbackground.jpg")}
+h2{color: goldenrod;}
+.nav > a {color: gray;}
+article h2{color: #FF005A}
+p {color: #E1143C}
+button {margin: auto; background: grey; color: darkgreen}
+button img {background-color: grey}
+footer h3{color:limegreen}
+#img1 {float: left}
+.imgc {float: bottom}
+.imgr {float: right}
+/*orderform.html and work.html*/
+table {background: black; color: black; }
+td, select, option {background: #3AE2CE;}
+input, textarea {background-color: #D8BC57;}
